@@ -1,0 +1,8 @@
+site_name: Simulation Docs
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Examples: examples.md
+  - References: references.md
+theme:
+  name: readthedocs
