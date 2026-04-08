@@ -1,4 +1,14 @@
-antora-playbook.yml
-build/
-cache/
-docs-src/
+# Dependencies
+node_modules/
+
+# Antora Cache
+.antora-cache/
+.cache/
+
+# Local Build Output (optional, but keep it if using CI)
+# build/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store

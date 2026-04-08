@@ -1,0 +1,5 @@
+name: vnm-simulation
+title: VNM Simulation Documentation
+version: latest
+nav:
+  - modules/ROOT/nav.adoc

@@ -1,0 +1,5 @@
+= Simulation Docs
+Welcome to the Simulation Documentation!
+
+This site explains concepts, tools, and techniques for building simulations —
+from physical systems to agent-based models.

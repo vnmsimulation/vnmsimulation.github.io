@@ -1,0 +1,12 @@
+{
+  "name": "vnm-simulation-docs",
+  "version": "1.0.0",
+  "description": "Documentation for VNM Simulation",
+  "scripts": {
+    "build": "antora antora-playbook.yml"
+  },
+  "devDependencies": {
+    "@antora/cli": "^3.1.0",
+    "@antora/site-generator": "^3.1.0"
+  }
+}

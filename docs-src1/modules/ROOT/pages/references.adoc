@@ -1,0 +1,5 @@
+= References
+:page-nav_order: 3
+
+* https://simpy.readthedocs.io/[SimPy Documentation]
+* https://en.wikipedia.org/wiki/Simulation[Wikipedia: Simulation]

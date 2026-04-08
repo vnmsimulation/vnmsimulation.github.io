@@ -1,0 +1,8 @@
+= Examples
+:page-nav_order: 2
+
+== Monte Carlo Simulation
+Monte Carlo methods use random sampling to estimate unknown quantities.
+
+== Agent-Based Simulation
+Agent-based modeling simulates individual entities and their interactions.

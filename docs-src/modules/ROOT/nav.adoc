@@ -1,0 +1,3 @@
+* xref:index.adoc[Welcome]
+* xref:devices.adoc[Devices]
+* xref:softwares.adoc[Softwares]
