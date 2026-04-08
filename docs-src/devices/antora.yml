@@ -1,0 +1,5 @@
+name: devices
+title: Devices Documentation
+version: latest
+nav:
+  - modules/ROOT/nav.adoc

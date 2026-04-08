@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://vnmsimulation.github.io/vnm-simulation/latest/devices.html</loc>
-<lastmod>2026-04-08T10:30:01.935Z</lastmod>
-</url>
-<url>
-<loc>https://vnmsimulation.github.io/vnm-simulation/latest/index.html</loc>
-<lastmod>2026-04-08T10:30:01.935Z</lastmod>
-</url>
-<url>
-<loc>https://vnmsimulation.github.io/vnm-simulation/latest/softwares.html</loc>
-<lastmod>2026-04-08T10:30:01.935Z</lastmod>
-</url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://vnmsimulation.github.io/sitemap-devices.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://vnmsimulation.github.io/sitemap-softwares.xml</loc>
+</sitemap>
+</sitemapindex>

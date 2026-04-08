@@ -1,0 +1,6 @@
+* xref:index.adoc[Welcome]
+* xref:devices.adoc[Devices]
+** xref:direct-drive.adoc[Direct Drive]
+** xref:shifter.adoc[Shifter]
+** xref:pedals.adoc[Pedals]
+* xref:softwares.adoc[Softwares]

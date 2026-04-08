@@ -1,0 +1,5 @@
+name: softwares
+title: Softwares Documentation
+version: latest
+nav:
+  - modules/ROOT/nav.adoc

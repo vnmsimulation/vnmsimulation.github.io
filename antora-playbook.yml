@@ -1,12 +1,14 @@
 site:
   title: VNM Simulation Documentation
   url: https://vnmsimulation.github.io/
-  start_page: vnm-simulation::index.adoc
+  start_page: devices::index.adoc
 content:
   sources:
   - url: .
     branches: HEAD
-    start_path: docs-src
+    start_paths:
+      - docs-src/devices
+      - docs-src/softwares
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
