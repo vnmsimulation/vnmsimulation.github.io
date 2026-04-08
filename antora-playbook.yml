@@ -1,6 +1,6 @@
 site:
   title: VNM Simulation Documentation
-  url: https://vnmsimulation.github.io/
+  url: https://docs.vnmsimulation.com
   start_page: devices::index.adoc
 content:
   sources:
