@@ -1,5 +1,0 @@
-
-* xref:index.adoc[Home]
-* xref:overview.adoc[Overview]
-* xref:examples.adoc[Examples]
-* xref:references.adoc[References]
