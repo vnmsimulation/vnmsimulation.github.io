@@ -1,3 +1,7 @@
 .navbar-menu { 
     display: none !important; 
 }
+
+.edit-this-page { 
+    display: none !important; 
+}
