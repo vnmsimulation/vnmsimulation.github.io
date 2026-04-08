@@ -1,6 +1,4 @@
-image:image1.png[VNM SIMULATION ., JSC,width=114,height=125]
-
-*VNM SIMULATION., JSC*
+= Direct Drive
 
 *VNM DIRECT DRIVE USER MANUAL*
 
