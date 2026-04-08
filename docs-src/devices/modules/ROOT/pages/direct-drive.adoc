@@ -6,48 +6,6 @@ image:image1.png[VNM SIMULATION ., JSC,width=114,height=125]
 
 *REVISION 1.0*
 
-== *Contents*
-
-link:#vnm-direct-drive-wheelbase-specifications[*1. VNM Direct Drive Wheelbase specifications* link:#vnm-direct-drive-wheelbase-specifications[2]]
-
-link:#wheelbase-mounting-pattern[*2. Wheelbase Mounting Pattern* link:#wheelbase-mounting-pattern[3]]
-
-link:#front-mounting-pattern[*2.1. Front mounting pattern* link:#front-mounting-pattern[3]]
-
-link:#side-mounting-pattern[*2.2. Side mounting pattern* link:#side-mounting-pattern[4]]
-
-link:#bottom-mounting-pattern[*2.3. Bottom mounting pattern* link:#bottom-mounting-pattern[5]]
-
-link:#connection[*3. Connection* link:#connection[9]]
-
-link:#product-safety-warnings-and-instructions[*4. Product safety warnings and instructions* link:#product-safety-warnings-and-instructions[10]]
-
-link:#intended-use-and-user-responsibility[*4.1. Intended Use and User Responsibility* link:#intended-use-and-user-responsibility[10]]
-
-link:#torque-and-control[*4.2. Torque and Control* link:#torque-and-control[10]]
-
-link:#damage-and-contact[*4.3. Damage and Contact* link:#damage-and-contact[10]]
-
-link:#indoor-use-and-environmental-conditions[*4.4. Indoor Use and Environmental Conditions* link:#indoor-use-and-environmental-conditions[10]]
-
-link:#power-supply-and-connection[*4.5. Power Supply and Connection* link:#power-supply-and-connection[10]]
-
-link:#device-handling-and-safety[*4.6. Device Handling and Safety* link:#device-handling-and-safety[10]]
-
-link:#usage-recommendations[*4.7. Usage Recommendations* link:#usage-recommendations[11]]
-
-link:#safe-operation-instruction[*5. Safe Operation instruction* link:#safe-operation-instruction[11]]
-
-link:#read-the-user-manual[*5.1. Read the User Manual* link:#read-the-user-manual[11]]
-
-link:#secure-installation[*5.2. Secure Installation* link:#secure-installation[11]]
-
-link:#before-powering-on[*5.3. Before Powering On* link:#before-powering-on[11]]
-
-link:#power-on[*5.4. Power On* link:#power-on[11]]
-
-link:#safety-precautions[*5.5. Safety Precautions* link:#safety-precautions[11]]
-
 *_Please read the manual carefully before installing or operating the wheelbases._*
 
 == *1. VNM Direct Drive Wheelbase specifications*
