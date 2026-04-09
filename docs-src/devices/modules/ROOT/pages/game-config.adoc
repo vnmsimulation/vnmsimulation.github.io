@@ -1,0 +1,4 @@
+= Game Configuration
+:page-nav_order: 1
+
+Game Configuration related page
