@@ -6,7 +6,7 @@
 * xref:softwares.adoc[Softwares]
 ** xref:sim-center.adoc[Sim Center]
 ** xref:vnm-flash.adoc[VNM Flash]
-* xref:game-config.adoc[Game Configuration]
+* xref:game-configs.adoc[Game Configuration]
 ** xref:grid-legends-rally-dirt4.adoc[Grid Legends, Rally 2.0 and Dirt4]
 ** xref:wrc.adoc[WRC]
 ** xref:rfactor-2.adoc[rFactor 2]

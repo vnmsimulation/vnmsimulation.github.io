@@ -5,9 +5,9 @@ Automobilista 2 #supports the VNM Direct Drive Firmware controller device out-of
 [arabic]
 . #Go into Options ++>++ Controls. In the _Control Scheme_ tab, select the _Type_ section and choose “Wheel”#
 . #In the Make section, choose “Custom”#
-. ##Set Pedal Type to “Separate”##image:media1/media/image2.png[media1/media/image2,width=640,height=360]
+. ##Set Pedal Type to “Separate”##image:game-configs/automobilista/image2.png[game-configs/automobilista/image2,width=640,height=360]
 . #Go into _Edit Assignments._ Click on “Steer Left” and “Steer Right” to bind it to your wheels. Note that you need to turn the wheel to 50% and return to center for the game to recognise the input#
-. ##Do the same for Throttle, Brake and Clutch##image:media1/media/image1.png[media1/media/image1,width=649,height=365]
+. ##Do the same for Throttle, Brake and Clutch##image:game-configs/automobilista/image1.png[game-configs/automobilista/image1,width=649,height=365]
 . #Go back into _Control Scheme_, choose “Calibrate Wheels” and follow the game instruction. Do the same for Pedals#
 . #Set the Force Feedback settings to your liking#
 

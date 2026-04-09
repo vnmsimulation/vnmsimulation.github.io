@@ -8,7 +8,7 @@ content:
     branches: HEAD
     start_paths:
       - docs-src/devices
-      - docs-src/softwares
+      #- docs-src/softwares
       - docs-src/game-configs
 # ADD THIS SECTION:
 asciidoc:
