@@ -1,5 +1,0 @@
-name: game-configs
-title: Game Configuration
-version: latest
-nav:
-  - modules/ROOT/nav.adoc

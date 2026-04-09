@@ -97,13 +97,13 @@
     <a class="nav-link" href="grid-legends-rally-dirt4.html">Grid Legends, Rally 2.0 and Dirt4</a>
   </li>
   <li class="nav-item" data-depth="2">
-    <a class="nav-link" href="#wrc.adoc">WRC</a>
+    <a class="nav-link" href="wrc.html">WRC</a>
   </li>
   <li class="nav-item" data-depth="2">
-    <a class="nav-link" href="#rfactor-2.adoc">rFactor 2</a>
+    <a class="nav-link" href="rfactor-2.html">rFactor 2</a>
   </li>
   <li class="nav-item" data-depth="2">
-    <a class="nav-link" href="#automobilista-project-car-2.adoc">Automobilista and Project Car 2</a>
+    <a class="nav-link" href="automobilista-project-car-2.html">Automobilista and Project Car 2</a>
   </li>
 </ul>
   </li>
@@ -132,14 +132,6 @@
         </li>
       </ul>
     </li>
-    <li class="component">
-      <div class="title"><a href="../../game-configs/latest/index.html">Game Configuration</a></div>
-      <ul class="versions">
-        <li class="version is-latest">
-          <a href="../../game-configs/latest/index.html">latest</a>
-        </li>
-      </ul>
-    </li>
   </ul>
 </div>
     </div>
@@ -156,7 +148,7 @@
     <li><a href="grid-legends-rally-dirt4.html">Grid Legends, Rally 2.0 and Dirt4</a></li>
   </ul>
 </nav>
-<div class="edit-this-page"><a href="file:///C:/Users/chinhnc/vnsimulation/vnmsimulation.github.io/docs-src/devices/modules/ROOT/pages/grid-legends-rally-dirt4.adoc">Edit this Page</a></div>
+<div class="edit-this-page"><a href="file:///C:/Users/chinhnc/vnsimulation/vnmsimulation.github.io/docs-src/vnm/modules/ROOT/pages/grid-legends-rally-dirt4.adoc">Edit this Page</a></div>
 </div>
   <div class="content">
 <aside class="toc sidebar" data-title="Contents" data-levels="2">
@@ -164,38 +156,16 @@
 </aside>
 <article class="doc">
 <div class="paragraph">
-<p>Automobilista 2 <mark>supports the VNM Direct Drive Firmware controller device out-of-the-box as a Custom wheel.</mark></p>
+<p>Grid Legends will not recognise the VNM Direct Drive Firmware out of the box. Support needs to be added manually, as follows:</p>
 </div>
 <div class="paragraph">
-<p><mark>Configuration is straight-forward and can be done in game in the Options menu.</mark></p>
-</div>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><mark>Go into Options &gt; Controls. In the <em>Control Scheme</em> tab, select the <em>Type</em> section and choose “Wheel”</mark></p>
-</li>
-<li>
-<p><mark>In the Make section, choose “Custom”</mark></p>
-</li>
-<li>
-<p><mark>Set Pedal Type to “Separate”</mark><span class="image unresolved"><img src="media1/media/image2.png" alt="media1/media/image2" width="640" height="360"></span></p>
-</li>
-<li>
-<p><mark>Go into <em>Edit Assignments.</em> Click on “Steer Left” and “Steer Right” to bind it to your wheels. Note that you need to turn the wheel to 50% and return to center for the game to recognise the input</mark></p>
-</li>
-<li>
-<p><mark>Do the same for Throttle, Brake and Clutch</mark><span class="image unresolved"><img src="media1/media/image1.png" alt="media1/media/image1" width="649" height="365"></span></p>
-</li>
-<li>
-<p><mark>Go back into <em>Control Scheme</em>, choose “Calibrate Wheels” and follow the game instruction. Do the same for Pedals</mark></p>
-</li>
-<li>
-<p><mark>Set the Force Feedback settings to your liking</mark></p>
-</li>
-</ol>
+<p><mark>Find the game installation directory, go to GridLegends\input\devices</mark> and edit the file: device_defines.xml (change <mark>GridLegends</mark> to the exact Game you want)</p>
 </div>
 <div class="paragraph">
-<p><mark>Setting for Project Cars 2 are done the same</mark></p>
+<p>Add the following line to the end of the list</p>
+</div>
+<div class="paragraph">
+<p>&lt;device id="{A3D50483-0000-0000-0000-504944564944}" name="vnm_direct_drive" priority="100" type="wheel" official="false"/&gt;</p>
 </div>
 </article>
   </div>

@@ -1,0 +1,7 @@
+EA Sports WRC will not recognise the VNM Direct Drive Firmware out of the box. Support needs to be added manually, as follows:
+
+#Find the game installation directory, go to EA SPORTS WRC++\++WRC++\++Content++\++input++\++Windows++\++devices# and edit the file: device++_++defines.xml.
+
+Add the following line to the end of the list
+
+++<++device id="++{++A3D50483-0000-0000-0000-504944564944}" name="vnm++_++direct++_++drive" priority="100" type="wheel" official="false"/++>++

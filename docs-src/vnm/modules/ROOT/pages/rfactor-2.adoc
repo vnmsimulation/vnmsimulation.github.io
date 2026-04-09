@@ -1,0 +1,5 @@
+Rfactor 2 #supports the VNM Direct Drive Firmware controller device out-of-the-box.Configuration is straight-forward and can be done in game in the Setting menu#
+
+* ##Step 1: Go to Calibrate Control and choose to _Run Control Wizard_ and follow the game instruction to bind and calibrate your devices. If the game doesn’t register your input, try to close and open the game again.##image:game-configs/rfactor-2/image2.png[game-configs/rfactor-2/image2,width=601,height=338]
+
+##-Step 2: Set the FFB Strength to a negative value. The game register the FFB as inverted for some reason so if you left it at positive value and enter a race, the wheel will be lock to 1 side##image:game-configs/rfactor-2/image1.png[game-configs/rfactor-2/image1,width=601,height=338]

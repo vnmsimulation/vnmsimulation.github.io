@@ -7,9 +7,7 @@ content:
   - url: .
     branches: HEAD
     start_paths:
-      - docs-src/devices
-      #- docs-src/softwares
-      - docs-src/game-configs
+      - docs-src/vnm
 # ADD THIS SECTION:
 asciidoc:
   attributes:

@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Game Configuration :: VNM Simulation Documentation</title>
-    <link rel="canonical" href="https://docs.vnmsimulation.com/devices/latest/game-configs.html">
+    <title>Untitled :: VNM Simulation Documentation</title>
+    <link rel="canonical" href="https://docs.vnmsimulation.com/devices/latest/wrc.html">
     <meta name="generator" content="Antora 3.1.14">
     <link rel="stylesheet" href="../../_/css/site.css">
 <link rel="stylesheet" href="../../_/css/site-extra.css">
@@ -89,14 +89,14 @@
   </li>
 </ul>
   </li>
-  <li class="nav-item is-current-page" data-depth="1">
+  <li class="nav-item" data-depth="1">
     <button class="nav-item-toggle"></button>
     <a class="nav-link" href="game-configs.html">Game Configuration</a>
 <ul class="nav-list">
   <li class="nav-item" data-depth="2">
     <a class="nav-link" href="grid-legends-rally-dirt4.html">Grid Legends, Rally 2.0 and Dirt4</a>
   </li>
-  <li class="nav-item" data-depth="2">
+  <li class="nav-item is-current-page" data-depth="2">
     <a class="nav-link" href="wrc.html">WRC</a>
   </li>
   <li class="nav-item" data-depth="2">
@@ -145,18 +145,27 @@
   <ul>
     <li><a href="index.html">Device Manuals</a></li>
     <li><a href="game-configs.html">Game Configuration</a></li>
+    <li><a href="wrc.html">WRC</a></li>
   </ul>
 </nav>
-<div class="edit-this-page"><a href="file:///C:/Users/chinhnc/vnsimulation/vnmsimulation.github.io/docs-src/vnm/modules/ROOT/pages/game-configs.adoc">Edit this Page</a></div>
+<div class="edit-this-page"><a href="file:///C:/Users/chinhnc/vnsimulation/vnmsimulation.github.io/docs-src/vnm/modules/ROOT/pages/wrc.adoc">Edit this Page</a></div>
 </div>
   <div class="content">
 <aside class="toc sidebar" data-title="Contents" data-levels="2">
   <div class="toc-menu"></div>
 </aside>
 <article class="doc">
-<h1 class="page">Game Configuration</h1>
 <div class="paragraph">
-<p>Game Configuration related page</p>
+<p>EA Sports WRC will not recognise the VNM Direct Drive Firmware out of the box. Support needs to be added manually, as follows:</p>
+</div>
+<div class="paragraph">
+<p><mark>Find the game installation directory, go to EA SPORTS WRC\WRC\Content\input\Windows\devices</mark> and edit the file: device_defines.xml.</p>
+</div>
+<div class="paragraph">
+<p>Add the following line to the end of the list</p>
+</div>
+<div class="paragraph">
+<p>&lt;device id="{A3D50483-0000-0000-0000-504944564944}" name="vnm_direct_drive" priority="100" type="wheel" official="false"/&gt;</p>
 </div>
 </article>
   </div>
