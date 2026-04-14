@@ -1,8 +1,6 @@
-image:devices/direct-drive-config/image1.png[VNM SIMULATION ., JSC,width=114,height=125]
+= VNM DIRECT DRIVE CONFIGURATION MANUAL
 
-VNM SIM CENTER CONFIGURATION MANUAL
-
-Version 0.6
+Revision 0.6
 
 == *I. Overview*
 
