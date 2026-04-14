@@ -1,6 +1,8 @@
 * xref:index.adoc[Welcome]
 * xref:devices.adoc[Devices]
 ** xref:direct-drive.adoc[Direct Drive]
+*** xref:direct-drive-manual.adoc[User Manual]
+*** xref:direct-drive-config.adoc[Software Configuration]
 ** xref:shifter.adoc[Shifter]
 ** xref:pedals.adoc[Pedals]
 * xref:softwares.adoc[Softwares]
