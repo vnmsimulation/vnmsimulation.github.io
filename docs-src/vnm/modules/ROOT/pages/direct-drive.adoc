@@ -1,4 +1,4 @@
-=*Introduction to VNM Direct Drive*
+= *Introduction to VNM Direct Drive*
 
 The *VNM Direct Drive Wheelbase* family is a professional-grade sim racing ecosystem designed for high-precision driving simulation. These wheelbases utilize a *5-polepair smooth motor* and a high-resolution *23-bit encoder* to deliver detailed Force Feedback (FFB) that reproduces road surfaces, tire grip, and vehicle dynamics. The product line is designed for versatility and power, offering four distinct models to suit various levels of sim racing needs:
 
