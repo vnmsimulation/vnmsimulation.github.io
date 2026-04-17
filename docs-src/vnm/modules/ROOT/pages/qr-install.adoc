@@ -1,0 +1,29 @@
+____
+image:installation/qr-installation/image1.png[installation/qr-installation/image1]Manual Quick Release V1
+
+image:installation/qr-installation/image2.png[installation/qr-installation/image2,width=277,height=160] image:installation/qr-installation/image3.png[installation/qr-installation/image3,width=736,height=623]
+____
+
+image:installation/qr-installation/image4.png[installation/qr-installation/image4,width=662,height=362]image:installation/qr-installation/image5.png[installation/qr-installation/image5,width=206,height=206]
+
+image:installation/qr-installation/image6.png[installation/qr-installation/image6]
+
+____
+image:installation/qr-installation/image8.png[installation/qr-installation/image8]
+
+image:installation/qr-installation/image13.png[installation/qr-installation/image13,width=390,height=627] image:installation/qr-installation/image14.png[installation/qr-installation/image14,width=398,height=321]
+____
+
+image:installation/qr-installation/image15.png[installation/qr-installation/image15,width=742,height=480]image:installation/qr-installation/image16.png[installation/qr-installation/image16,width=253,height=179]
+
+image:installation/qr-installation/image17.png[installation/qr-installation/image17,width=854,height=469]
+
+____
+image:installation/qr-installation/image18.png[installation/qr-installation/image18,width=473,height=455]image:installation/qr-installation/image19.png[installation/qr-installation/image19]
+
+image:installation/qr-installation/image21.png[installation/qr-installation/image21]*3*
+
+*1*
+
+*2*
+____
