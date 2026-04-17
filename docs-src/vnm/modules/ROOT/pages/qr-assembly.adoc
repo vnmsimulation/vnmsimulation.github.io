@@ -1,0 +1,39 @@
+____
+image:installation/qr-assembly/image1.png[installation/qr-assembly/image1] image:installation/qr-assembly/image3.png[installation/qr-assembly/image3,width=456,height=442]
+____
+
+image:installation/qr-assembly/image4.png[installation/qr-assembly/image4]
+
+____
+image:installation/qr-assembly/image5.png[installation/qr-assembly/image5]image:installation/qr-assembly/image6.png[installation/qr-assembly/image6,width=128,height=170]image:installation/qr-assembly/image7.png[installation/qr-assembly/image7,width=97,height=44]image:installation/qr-assembly/image8.png[installation/qr-assembly/image8,width=38,height=50]image:installation/qr-assembly/image9.png[installation/qr-assembly/image9,width=55,height=44]x1 x2 x3
+____
+
+image:installation/qr-assembly/image10.png[installation/qr-assembly/image10,width=50,height=38]image:installation/qr-assembly/image11.png[installation/qr-assembly/image11,width=52,height=57]image:installation/qr-assembly/image12.png[installation/qr-assembly/image12,width=51,height=58]x1
+
+____
+image:installation/qr-assembly/image13.png[installation/qr-assembly/image13]image:installation/qr-assembly/image14.png[installation/qr-assembly/image14]image:installation/qr-assembly/image15.png[installation/qr-assembly/image15,width=76,height=64]image:installation/qr-assembly/image16.png[installation/qr-assembly/image16,width=91,height=40]x1 x2 x2
+____
+
+image:installation/qr-assembly/image17.png[installation/qr-assembly/image17,width=27,height=21]
+
+____
+x1 x2 x2
+____
+
+image:installation/qr-assembly/image18.png[installation/qr-assembly/image18,width=45,height=52]
+
+x1
+
+____
+image:installation/qr-assembly/image19.png[installation/qr-assembly/image19]Step 1 Step 2
+
+Step 3 Step 4
+
+image:installation/qr-assembly/image23.png[installation/qr-assembly/image23]Step 5 Step 6
+
+Step 7
+
+Step 8
+____
+
+image:installation/qr-assembly/image26.png[installation/qr-assembly/image26]

@@ -1,0 +1,7 @@
+____
+image:installation/emc-installation/image2.png[emc-installation/media/image2,width=406,height=106]
+____
+
+image:installation/emc-installation/image3.png[emc-installation/media/image3,width=932,height=372]
+
+image:installation/emc-installation/image4.png[emc-installation/media/image4]
