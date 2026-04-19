@@ -1,5 +1,4 @@
-= Simulation Docs
-Welcome to the Simulation Documentation!
+= VNM Simulation Docs
+Welcome to the VNM Simulation Documentation!
 
-This site explains concepts, tools, and techniques for building simulations —
-from physical systems to agent-based models.
+This is the official documentation portal for VNM Simulation hardware and software.
