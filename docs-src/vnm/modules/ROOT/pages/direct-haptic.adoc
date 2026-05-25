@@ -1,0 +1,11 @@
+= Direct Haptic
+
+image::devices/direct-haptic/page-1.png[]
+
+image::devices/direct-haptic/page-2.png[]
+
+image::devices/direct-haptic/page-3.png[]
+
+image::devices/direct-haptic/page-4.png[]
+
+link:{attachmentsdir}/Direct-Haptic.pdf[Download PDF,window=_blank]

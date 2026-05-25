@@ -1,0 +1,7 @@
+= Pedal Damper Throttle
+
+image::devices/pedal/pedal-damper-throttle-page-1.png[]
+
+image::devices/pedal/pedal-damper-throttle-page-2.png[]
+
+link:{attachmentsdir}/Pedal-Damper-Throttle.pdf[Download PDF,window=_blank]

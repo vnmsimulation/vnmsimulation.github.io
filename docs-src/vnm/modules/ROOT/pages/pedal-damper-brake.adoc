@@ -1,0 +1,7 @@
+= Pedal Damper Brake
+
+image::devices/pedal/pedal-damper-brake-page-1.png[]
+
+image::devices/pedal/pedal-damper-brake-page-2.png[]
+
+link:{attachmentsdir}/Pedal-Damper-Brake.pdf[Download PDF,window=_blank]
