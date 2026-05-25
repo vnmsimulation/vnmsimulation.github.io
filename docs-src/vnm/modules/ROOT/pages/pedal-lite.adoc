@@ -1,0 +1,11 @@
+= Pedal Lite
+
+image::devices/pedal/pedal-lite-page-1.png[]
+
+image::devices/pedal/pedal-lite-page-2.png[]
+
+image::devices/pedal/pedal-lite-page-3.png[]
+
+image::devices/pedal/pedal-lite-page-4.png[]
+
+link:{attachmentsdir}/Pedal-Lite.pdf[Download PDF,window=_blank]

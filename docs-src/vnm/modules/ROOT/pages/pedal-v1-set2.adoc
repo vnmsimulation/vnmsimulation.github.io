@@ -1,0 +1,11 @@
+= Pedal V1 Set2
+
+image::devices/pedal/pedal-v1-set2-page-1.png[]
+
+image::devices/pedal/pedal-v1-set2-page-2.png[]
+
+image::devices/pedal/pedal-v1-set2-page-3.png[]
+
+image::devices/pedal/pedal-v1-set2-page-4.png[]
+
+link:{attachmentsdir}/Pedal-V1-Set2.pdf[Download PDF,window=_blank]

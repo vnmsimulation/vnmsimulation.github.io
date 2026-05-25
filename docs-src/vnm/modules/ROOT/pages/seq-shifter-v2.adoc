@@ -3,3 +3,5 @@
 image::devices/shifter/seq-shifter-v2-page-1.png[]
 
 image::devices/shifter/seq-shifter-v2-page-2.png[]
+
+link:{attachmentsdir}/VNM-SEQ-SHIFTER-V2.pdf[Download PDF,window=_blank]

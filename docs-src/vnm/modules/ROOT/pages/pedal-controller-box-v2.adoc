@@ -1,0 +1,7 @@
+= Pedal Controller Box V2
+
+image::devices/pedal/pedal-controller-box-v2-page-1.png[]
+
+image::devices/pedal/pedal-controller-box-v2-page-2.png[]
+
+link:{attachmentsdir}/Pedal-Controller-Box-V2.pdf[Download PDF,window=_blank]

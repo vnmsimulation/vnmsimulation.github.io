@@ -3,3 +3,5 @@
 image::devices/shifter/table-clamps-page-1.png[]
 
 image::devices/shifter/table-clamps-page-2.png[]
+
+link:{attachmentsdir}/Table-Clamps-for-VNM-Shifter.pdf[Download PDF,window=_blank]
