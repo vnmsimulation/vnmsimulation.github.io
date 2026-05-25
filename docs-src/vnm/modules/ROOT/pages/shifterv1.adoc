@@ -1,0 +1,5 @@
+= VNM Shifter V1 Quick Guide
+
+image::devices/shifter/shifterv1-page-1.png[]
+
+image::devices/shifter/shifterv1-page-2.png[]
