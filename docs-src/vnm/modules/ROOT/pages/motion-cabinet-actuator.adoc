@@ -1,0 +1,21 @@
+= Motion Cabinet & Actuator Book
+
+image::devices/motion-cabinet-actuator/page-1.png[]
+
+image::devices/motion-cabinet-actuator/page-2.png[]
+
+image::devices/motion-cabinet-actuator/page-3.png[]
+
+image::devices/motion-cabinet-actuator/page-4.png[]
+
+image::devices/motion-cabinet-actuator/page-5.png[]
+
+image::devices/motion-cabinet-actuator/page-6.png[]
+
+image::devices/motion-cabinet-actuator/page-7.png[]
+
+image::devices/motion-cabinet-actuator/page-8.png[]
+
+image::devices/motion-cabinet-actuator/page-9.png[]
+
+link:{attachmentsdir}/Motion-Cabinet-Actuator-Book.pdf[Download PDF,window=_blank]

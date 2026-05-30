@@ -1,0 +1,25 @@
+= Freestanding Single Monitor Stand
+
+image::devices/monitor-stand-freestanding-single/page-01.png[]
+
+image::devices/monitor-stand-freestanding-single/page-02.png[]
+
+image::devices/monitor-stand-freestanding-single/page-03.png[]
+
+image::devices/monitor-stand-freestanding-single/page-04.png[]
+
+image::devices/monitor-stand-freestanding-single/page-05.png[]
+
+image::devices/monitor-stand-freestanding-single/page-06.png[]
+
+image::devices/monitor-stand-freestanding-single/page-07.png[]
+
+image::devices/monitor-stand-freestanding-single/page-08.png[]
+
+image::devices/monitor-stand-freestanding-single/page-09.png[]
+
+image::devices/monitor-stand-freestanding-single/page-10.png[]
+
+image::devices/monitor-stand-freestanding-single/page-11.png[]
+
+link:{attachmentsdir}/Monitor-Stand-Freestanding-Single.pdf[Download PDF,window=_blank]

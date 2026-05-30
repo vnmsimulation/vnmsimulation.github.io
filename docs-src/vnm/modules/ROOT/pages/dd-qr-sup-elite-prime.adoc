@@ -1,0 +1,29 @@
+= VNM Manual Quick Release Direct Driver (SupElitePrime)
+
+image::devices/direct-drive-sup-elite-prime/page-01.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-02.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-03.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-04.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-05.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-06.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-07.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-08.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-09.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-10.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-11.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-12.png[]
+
+image::devices/direct-drive-sup-elite-prime/page-13.png[]
+
+link:{attachmentsdir}/DD-QR-SupElitePrime.pdf[Download PDF,window=_blank]

@@ -1,0 +1,27 @@
+= Quad Monitor Mount Extension
+
+image::devices/monitor-stand-quad-extension/page-01.png[]
+
+image::devices/monitor-stand-quad-extension/page-02.png[]
+
+image::devices/monitor-stand-quad-extension/page-03.png[]
+
+image::devices/monitor-stand-quad-extension/page-04.png[]
+
+image::devices/monitor-stand-quad-extension/page-05.png[]
+
+image::devices/monitor-stand-quad-extension/page-06.png[]
+
+image::devices/monitor-stand-quad-extension/page-07.png[]
+
+image::devices/monitor-stand-quad-extension/page-08.png[]
+
+image::devices/monitor-stand-quad-extension/page-09.png[]
+
+image::devices/monitor-stand-quad-extension/page-10.png[]
+
+image::devices/monitor-stand-quad-extension/page-11.png[]
+
+image::devices/monitor-stand-quad-extension/page-12.png[]
+
+link:{attachmentsdir}/Monitor-Stand-Quad-Extension.pdf[Download PDF,window=_blank]

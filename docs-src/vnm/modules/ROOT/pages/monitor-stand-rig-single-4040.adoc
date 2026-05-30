@@ -1,0 +1,27 @@
+= RIG-Mounted Single Monitor Stand 4040
+
+image::devices/monitor-stand-rig-single-4040/page-01.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-02.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-03.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-04.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-05.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-06.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-07.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-08.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-09.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-10.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-11.png[]
+
+image::devices/monitor-stand-rig-single-4040/page-12.png[]
+
+link:{attachmentsdir}/Monitor-Stand-RIG-Single-4040.pdf[Download PDF,window=_blank]

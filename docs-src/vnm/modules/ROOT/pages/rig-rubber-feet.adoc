@@ -1,0 +1,7 @@
+= VNM Rubber Feet
+
+image::devices/rig-rubber-feet/page-1.png[]
+
+image::devices/rig-rubber-feet/page-2.png[]
+
+link:{attachmentsdir}/Rig-Rubber-Feet.pdf[Download PDF,window=_blank]

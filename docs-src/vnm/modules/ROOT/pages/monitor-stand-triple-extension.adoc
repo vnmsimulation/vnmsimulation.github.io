@@ -1,0 +1,25 @@
+= Triple Monitor Extension (for Freestanding Monitor Type)
+
+image::devices/monitor-stand-triple-extension/page-01.png[]
+
+image::devices/monitor-stand-triple-extension/page-02.png[]
+
+image::devices/monitor-stand-triple-extension/page-03.png[]
+
+image::devices/monitor-stand-triple-extension/page-04.png[]
+
+image::devices/monitor-stand-triple-extension/page-05.png[]
+
+image::devices/monitor-stand-triple-extension/page-06.png[]
+
+image::devices/monitor-stand-triple-extension/page-07.png[]
+
+image::devices/monitor-stand-triple-extension/page-08.png[]
+
+image::devices/monitor-stand-triple-extension/page-09.png[]
+
+image::devices/monitor-stand-triple-extension/page-10.png[]
+
+image::devices/monitor-stand-triple-extension/page-11.png[]
+
+link:{attachmentsdir}/Monitor-Stand-Triple-Extension.pdf[Download PDF,window=_blank]

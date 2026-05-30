@@ -1,0 +1,23 @@
+= VNM 3DOF Motion Kit (4 Actuators)
+
+image::devices/motion-3dof-4-actuators/page-01.png[]
+
+image::devices/motion-3dof-4-actuators/page-02.png[]
+
+image::devices/motion-3dof-4-actuators/page-03.png[]
+
+image::devices/motion-3dof-4-actuators/page-04.png[]
+
+image::devices/motion-3dof-4-actuators/page-05.png[]
+
+image::devices/motion-3dof-4-actuators/page-06.png[]
+
+image::devices/motion-3dof-4-actuators/page-07.png[]
+
+image::devices/motion-3dof-4-actuators/page-08.png[]
+
+image::devices/motion-3dof-4-actuators/page-09.png[]
+
+image::devices/motion-3dof-4-actuators/page-10.png[]
+
+link:{attachmentsdir}/Motion-3dof-4-Actuators.pdf[Download PDF,window=_blank]

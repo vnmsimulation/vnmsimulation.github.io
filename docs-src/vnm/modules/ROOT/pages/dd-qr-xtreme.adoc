@@ -1,0 +1,25 @@
+= VNM Manual Quick Release Direct Driver (Xtreme)
+
+image::devices/direct-drive-xtreme/page-01.png[]
+
+image::devices/direct-drive-xtreme/page-02.png[]
+
+image::devices/direct-drive-xtreme/page-03.png[]
+
+image::devices/direct-drive-xtreme/page-04.png[]
+
+image::devices/direct-drive-xtreme/page-05.png[]
+
+image::devices/direct-drive-xtreme/page-06.png[]
+
+image::devices/direct-drive-xtreme/page-07.png[]
+
+image::devices/direct-drive-xtreme/page-08.png[]
+
+image::devices/direct-drive-xtreme/page-09.png[]
+
+image::devices/direct-drive-xtreme/page-10.png[]
+
+image::devices/direct-drive-xtreme/page-11.png[]
+
+link:{attachmentsdir}/DD-QR-Xtreme.pdf[Download PDF,window=_blank]

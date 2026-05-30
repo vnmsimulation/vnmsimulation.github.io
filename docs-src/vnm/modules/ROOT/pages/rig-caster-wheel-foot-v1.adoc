@@ -1,0 +1,19 @@
+= VNM Caster Wheel Foot V1
+
+image::devices/rig-caster-wheel-foot-v1/page-1.png[]
+
+image::devices/rig-caster-wheel-foot-v1/page-2.png[]
+
+image::devices/rig-caster-wheel-foot-v1/page-3.png[]
+
+image::devices/rig-caster-wheel-foot-v1/page-4.png[]
+
+image::devices/rig-caster-wheel-foot-v1/page-5.png[]
+
+image::devices/rig-caster-wheel-foot-v1/page-6.png[]
+
+image::devices/rig-caster-wheel-foot-v1/page-7.png[]
+
+image::devices/rig-caster-wheel-foot-v1/page-8.png[]
+
+link:{attachmentsdir}/Rig-Caster-Wheel-Foot-V1.pdf[Download PDF,window=_blank]

@@ -1,0 +1,9 @@
+= GT Steering Wheel V2
+
+image::devices/steering-wheel/gt-steering-wheel-v2-page-1.png[]
+
+image::devices/steering-wheel/gt-steering-wheel-v2-page-2.png[]
+
+image::devices/steering-wheel/gt-steering-wheel-v2-page-3.png[]
+
+link:{attachmentsdir}/GT-Steering-Wheel-V2.pdf[Download PDF,window=_blank]

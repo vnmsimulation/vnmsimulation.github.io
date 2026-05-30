@@ -1,0 +1,31 @@
+= Freestanding Triple Monitor Stand
+
+image::devices/monitor-stand-freestanding-triple/page-01.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-02.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-03.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-04.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-05.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-06.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-07.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-08.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-09.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-10.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-11.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-12.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-13.png[]
+
+image::devices/monitor-stand-freestanding-triple/page-14.png[]
+
+link:{attachmentsdir}/Monitor-Stand-Freestanding-Triple.pdf[Download PDF,window=_blank]

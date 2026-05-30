@@ -1,0 +1,11 @@
+= VNM Static Foot V2
+
+image::devices/rig-static-foot-v2/page-1.png[]
+
+image::devices/rig-static-foot-v2/page-2.png[]
+
+image::devices/rig-static-foot-v2/page-3.png[]
+
+image::devices/rig-static-foot-v2/page-4.png[]
+
+link:{attachmentsdir}/Rig-Static-Foot-V2.pdf[Download PDF,window=_blank]

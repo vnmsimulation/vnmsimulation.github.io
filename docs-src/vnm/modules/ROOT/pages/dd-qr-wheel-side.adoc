@@ -1,0 +1,13 @@
+= VNM Manual QR Wheel Side & Steering Wheel
+
+image::devices/direct-drive-qr-wheel-side/page-1.png[]
+
+image::devices/direct-drive-qr-wheel-side/page-2.png[]
+
+image::devices/direct-drive-qr-wheel-side/page-3.png[]
+
+image::devices/direct-drive-qr-wheel-side/page-4.png[]
+
+image::devices/direct-drive-qr-wheel-side/page-5.png[]
+
+link:{attachmentsdir}/DD-QR-Wheel-Side.pdf[Download PDF,window=_blank]

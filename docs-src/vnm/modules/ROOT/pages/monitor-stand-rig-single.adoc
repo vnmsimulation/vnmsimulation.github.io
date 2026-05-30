@@ -1,0 +1,27 @@
+= RIG-Mounted Single Monitor Stand
+
+image::devices/monitor-stand-rig-single/page-01.png[]
+
+image::devices/monitor-stand-rig-single/page-02.png[]
+
+image::devices/monitor-stand-rig-single/page-03.png[]
+
+image::devices/monitor-stand-rig-single/page-04.png[]
+
+image::devices/monitor-stand-rig-single/page-05.png[]
+
+image::devices/monitor-stand-rig-single/page-06.png[]
+
+image::devices/monitor-stand-rig-single/page-07.png[]
+
+image::devices/monitor-stand-rig-single/page-08.png[]
+
+image::devices/monitor-stand-rig-single/page-09.png[]
+
+image::devices/monitor-stand-rig-single/page-10.png[]
+
+image::devices/monitor-stand-rig-single/page-11.png[]
+
+image::devices/monitor-stand-rig-single/page-12.png[]
+
+link:{attachmentsdir}/Monitor-Stand-RIG-Single.pdf[Download PDF,window=_blank]

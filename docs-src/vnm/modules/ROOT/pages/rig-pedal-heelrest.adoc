@@ -1,0 +1,7 @@
+= VNM Pedal Heelrest
+
+image::devices/rig-pedal-heelrest/page-1.png[]
+
+image::devices/rig-pedal-heelrest/page-2.png[]
+
+link:{attachmentsdir}/Rig-Pedal-Heelrest.pdf[Download PDF,window=_blank]

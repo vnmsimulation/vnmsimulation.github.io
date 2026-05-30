@@ -1,0 +1,9 @@
+= APEX-R Steering Wheel
+
+image::devices/steering-wheel/apex-r-steering-wheel-page-1.png[]
+
+image::devices/steering-wheel/apex-r-steering-wheel-page-2.png[]
+
+image::devices/steering-wheel/apex-r-steering-wheel-page-3.png[]
+
+link:{attachmentsdir}/APEX-R-Steering-Wheel.pdf[Download PDF,window=_blank]

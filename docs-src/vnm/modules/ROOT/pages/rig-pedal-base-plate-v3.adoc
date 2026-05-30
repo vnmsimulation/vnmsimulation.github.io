@@ -1,0 +1,17 @@
+= VNM Pedal Base Plate V3
+
+image::devices/rig-pedal-base-plate-v3/page-1.png[]
+
+image::devices/rig-pedal-base-plate-v3/page-2.png[]
+
+image::devices/rig-pedal-base-plate-v3/page-3.png[]
+
+image::devices/rig-pedal-base-plate-v3/page-4.png[]
+
+image::devices/rig-pedal-base-plate-v3/page-5.png[]
+
+image::devices/rig-pedal-base-plate-v3/page-6.png[]
+
+image::devices/rig-pedal-base-plate-v3/page-7.png[]
+
+link:{attachmentsdir}/Rig-Pedal-Base-Plate-V3.pdf[Download PDF,window=_blank]

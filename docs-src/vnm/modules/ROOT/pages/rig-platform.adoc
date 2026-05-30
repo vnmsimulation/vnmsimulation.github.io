@@ -1,0 +1,33 @@
+= VNM Rig Platform
+
+image::devices/rig-platform/page-01.png[]
+
+image::devices/rig-platform/page-02.png[]
+
+image::devices/rig-platform/page-03.png[]
+
+image::devices/rig-platform/page-04.png[]
+
+image::devices/rig-platform/page-05.png[]
+
+image::devices/rig-platform/page-06.png[]
+
+image::devices/rig-platform/page-07.png[]
+
+image::devices/rig-platform/page-08.png[]
+
+image::devices/rig-platform/page-09.png[]
+
+image::devices/rig-platform/page-10.png[]
+
+image::devices/rig-platform/page-11.png[]
+
+image::devices/rig-platform/page-12.png[]
+
+image::devices/rig-platform/page-13.png[]
+
+image::devices/rig-platform/page-14.png[]
+
+image::devices/rig-platform/page-15.png[]
+
+link:{attachmentsdir}/Rig-Platform.pdf[Download PDF,window=_blank]

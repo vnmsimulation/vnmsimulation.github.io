@@ -1,0 +1,11 @@
+= VNM Wheelbase Mount V4
+
+image::devices/rig-wheelbase-mount-v4/page-1.png[]
+
+image::devices/rig-wheelbase-mount-v4/page-2.png[]
+
+image::devices/rig-wheelbase-mount-v4/page-3.png[]
+
+image::devices/rig-wheelbase-mount-v4/page-4.png[]
+
+link:{attachmentsdir}/Rig-Wheelbase-Mount-V4.pdf[Download PDF,window=_blank]

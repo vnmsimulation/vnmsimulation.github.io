@@ -1,0 +1,29 @@
+= VNM Rig Platform 40160
+
+image::devices/rig-platform-40160/page-01.png[]
+
+image::devices/rig-platform-40160/page-02.png[]
+
+image::devices/rig-platform-40160/page-03.png[]
+
+image::devices/rig-platform-40160/page-04.png[]
+
+image::devices/rig-platform-40160/page-05.png[]
+
+image::devices/rig-platform-40160/page-06.png[]
+
+image::devices/rig-platform-40160/page-07.png[]
+
+image::devices/rig-platform-40160/page-08.png[]
+
+image::devices/rig-platform-40160/page-09.png[]
+
+image::devices/rig-platform-40160/page-10.png[]
+
+image::devices/rig-platform-40160/page-11.png[]
+
+image::devices/rig-platform-40160/page-12.png[]
+
+image::devices/rig-platform-40160/page-13.png[]
+
+link:{attachmentsdir}/Rig-Platform-40160.pdf[Download PDF,window=_blank]
