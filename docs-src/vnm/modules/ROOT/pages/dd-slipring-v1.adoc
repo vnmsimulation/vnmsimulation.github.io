@@ -38,6 +38,4 @@ image::devices/direct-drive-slipring-v1/page-18.png[]
 
 image::devices/direct-drive-slipring-v1/page-19.png[]
 
-image::devices/direct-drive-slipring-v1/page-20.png[]
-
 link:{attachmentsdir}/DD-Slipring-V1.pdf[Download PDF,window=_blank]

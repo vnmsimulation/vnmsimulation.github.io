@@ -1,0 +1,35 @@
+= VNM Rotated & Static Mouse Mount
+
+image::devices/rig-mouse-mount/page-01.png[]
+
+image::devices/rig-mouse-mount/page-02.png[]
+
+image::devices/rig-mouse-mount/page-03.png[]
+
+image::devices/rig-mouse-mount/page-04.png[]
+
+image::devices/rig-mouse-mount/page-05.png[]
+
+image::devices/rig-mouse-mount/page-06.png[]
+
+image::devices/rig-mouse-mount/page-07.png[]
+
+image::devices/rig-mouse-mount/page-08.png[]
+
+image::devices/rig-mouse-mount/page-09.png[]
+
+image::devices/rig-mouse-mount/page-10.png[]
+
+image::devices/rig-mouse-mount/page-11.png[]
+
+image::devices/rig-mouse-mount/page-12.png[]
+
+image::devices/rig-mouse-mount/page-13.png[]
+
+image::devices/rig-mouse-mount/page-14.png[]
+
+image::devices/rig-mouse-mount/page-15.png[]
+
+image::devices/rig-mouse-mount/page-16.png[]
+
+link:{attachmentsdir}/Rig-Mouse-Mount.pdf[Download PDF,window=_blank]

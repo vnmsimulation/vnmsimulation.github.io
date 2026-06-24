@@ -1,0 +1,7 @@
+= VNM Universal Pedal Deck
+
+image::devices/rig-universal-pedal-deck/page-01.png[]
+
+image::devices/rig-universal-pedal-deck/page-02.png[]
+
+link:{attachmentsdir}/Rig-Universal-Pedal-Deck.pdf[Download PDF,window=_blank]

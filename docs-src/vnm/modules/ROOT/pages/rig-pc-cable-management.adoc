@@ -1,0 +1,11 @@
+= VNM PC Cable Management
+
+image::devices/rig-pc-cable-management/page-01.png[]
+
+image::devices/rig-pc-cable-management/page-02.png[]
+
+image::devices/rig-pc-cable-management/page-03.png[]
+
+image::devices/rig-pc-cable-management/page-04.png[]
+
+link:{attachmentsdir}/Rig-PC-Cable-Management.pdf[Download PDF,window=_blank]
