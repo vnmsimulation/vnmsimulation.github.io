@@ -1,0 +1,23 @@
+= Download Simcenter
+:page-nav_order: 2
+:!page-toc:
+
+++++
+<p id="simcenter-redirect-msg">Redirecting to the latest Simcenter version...</p>
+<p><a id="simcenter-fallback" href="https://github.com/vnmsimulation/ui/releases/latest">If you are not redirected automatically, click here</a></p>
+<script>
+fetch('https://update.vnmsimulation.com/version.txt')
+  .then(r => r.text())
+  .then(text => {
+    const m = text.match(/#version=([\d.]+)/);
+    if (!m) throw new Error('version not found');
+    const version = m[1];
+    const zipUrl = 'https://github.com/vnmsimulation/ui/releases/download/v' + version + '/v' + version + '.zip';
+    document.getElementById('simcenter-fallback').href = zipUrl;
+    window.location.replace(zipUrl);
+  })
+  .catch(() => {
+    document.getElementById('simcenter-redirect-msg').textContent = 'Could not fetch the latest version automatically.';
+  });
+</script>
+++++

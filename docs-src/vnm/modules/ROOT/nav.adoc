@@ -67,6 +67,7 @@
 *** xref:motion-rig-6dof.adoc[Rig 6DOF (7 Actuators)]
 * xref:softwares.adoc[Softwares]
 ** xref:sim-center.adoc[Sim Center]
+*** xref:simcenter-download.adoc[Download]
 ** xref:vnm-flash.adoc[VNM Flash]
 * xref:game-configs.adoc[Game Configuration]
 ** xref:grid-legends-rally-dirt4.adoc[Grid Legends, Rally 2.0 and Dirt4]

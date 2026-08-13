@@ -2,9 +2,3 @@
 :page-nav_order: 1
 
 VNM Softwares.
-
-== Simcenter
-
-Newest version: v6.3.0.1
-
-link:https://github.com/vnmsimulation/ui/releases/download/v6.3.0.1/v6.3.0.1.zip[Download Simcenter v6.3.0.1]
