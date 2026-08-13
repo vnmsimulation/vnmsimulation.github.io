@@ -15,6 +15,7 @@ fetch('https://update.vnmsimulation.com/version.txt')
     const zipUrl = 'https://github.com/vnmsimulation/ui/releases/download/v' + version + '/v' + version + '.zip';
     document.getElementById('simcenter-fallback').href = zipUrl;
     window.location.replace(zipUrl);
+    setTimeout(() => window.close(), 800);
   })
   .catch(() => {
     document.getElementById('simcenter-redirect-msg').textContent = 'Could not fetch the latest version automatically.';

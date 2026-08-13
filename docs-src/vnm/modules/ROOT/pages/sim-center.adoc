@@ -1,3 +1,5 @@
 = SIM CENTER
 
-xref:simcenter-download.adoc[Download Simcenter (latest version)]
+++++
+<p><a href="simcenter-download.html" target="_blank" rel="opener">Download Simcenter (latest version)</a></p>
+++++
